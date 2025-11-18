@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @julianencisoizquierdo
-- 👨🏼‍💻 I’m interested in Machine Learning, especially in Natural Language Processing and Neural Networks
-- 🔢 I’m currently learning Python and Rstudio with the help of Kaggle projects and the feedback of teachers of my MSc
-- 🤝 I’m currenlty looking for professional opportunities at a startup with an inspiring vision and an innovative product
 - 📫 How to reach me: julian.enciso.izquierdo@gmail.com
